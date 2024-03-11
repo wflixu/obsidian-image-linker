@@ -1,0 +1,19 @@
+# Intellij
+*.iml
+.idea
+
+# npm
+node_modules
+
+# build
+main.js
+data.json
+*.js.map
+
+# eslint
+.eslintcache
+
+# c8
+coverage/
+
+test-results.xml

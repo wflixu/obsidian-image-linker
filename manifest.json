@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-image-linker",
+  "name": "Image Linker",
+  "version": "1.1.1",
+  "minAppVersion": "0.13.19",
+  "description": "This plugin uploads images from your clipboard to imgur.com and embeds uploaded image to your note",
+  "author": "wflixu",
+  "authorUrl": "https://github.com/wflixu",
+  "isDesktopOnly": false
+}
